@@ -1,5 +1,5 @@
 cask "dreamm-beta" do
-  version "4.0b18"
+  version "4.0b31"
   sha256 :no_check
 
   url "https://dreamm.aarongiles.com/releases/4.0/dreamm-#{version}-macos.dmg",
